@@ -2,7 +2,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const ejs = require("ejs");
 const _ = require("lodash");
-
+const port = Process.env.PORT || 3000 ;
 const homeStartingContent =
   "This blogging website is your own personal notebook which can be used for spilling your heart out and relax! it is absolutely safe!!";
 const aboutContent =
@@ -65,5 +65,5 @@ app.get("/posts/:postName", function (req, res) {
   });
 });
 app.listen(port, function () {
-  console.log("Server started on port 3000");
+  console.log("Server started on port"+port);
 });
