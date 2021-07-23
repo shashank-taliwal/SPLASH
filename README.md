@@ -4,7 +4,17 @@ It is a personal blogging website in which you can write blogs only for yourself
 
 ## Screenshots
 
-![App Screenshot](/Screenshots/about.png)
+### Home Page
+![Home Page](/Screenshots/home.png)
+
+### Compose Blog Page
+![Compose Page](/Screenshots/compose.png)
+
+### About Page
+![About Page](/Screenshots/about.png)
+
+### Contact Page
+![Contact Page](/Screenshots/contact.png)
 
   
 ## Authors
