@@ -1,6 +1,6 @@
 # Splash
 
-It is a personal blogging website in which you can write blogs only for yourself.
+It is a personal blogging website in which you can write blogs only for yourself. This website is made using NodeJS, Express and Embedded Javascript(EJS) in place of HTML 5 alonwith CSS 3 and Bootstrap 4. You can visit this website using [Splash](https://splash-blogging-website.herokuapp.com).
 
 ## Screenshots
 
